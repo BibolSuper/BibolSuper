@@ -3,7 +3,7 @@
 I make Software Engineering C++ <br>
 
 I work remoteiy and like to travel a lot. <br>
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BibolSuper&show_icons=true)
 #### Languages and tools I work with:
 
 <code><img src="https://w7.pngwing.com/pngs/201/90/png-transparent-logo-html-html5.png" height="25"></code>
