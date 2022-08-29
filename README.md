@@ -13,7 +13,7 @@ I work remoteiy and like to travel a lot. <br>
 <br />
 
 - 📍 &nbsp; Current location: Tashkent, Uzbekistan
-- 📝 &nbsp How to reach me: [@Bibol_Baratov](https://t.me/Bibol_Baratov) 
+- 📝 &nbsp How to reach me: [@Bibol_Baratov](https://t.me/Bibol_Baratov) [Telegram]
 
 
 
