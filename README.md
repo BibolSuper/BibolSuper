@@ -1,11 +1,11 @@
-<h1 align="center">Hi , I'm Bibol Baratov <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi , I'm Bibol Baratov <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="80"></h1>
 <p align="center">
-  <a href="https://github.com/BibolSuper/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer;Competitive+Programmer;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+  <a href="https://github.com/BibolSuper/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer;Competitive+Programmer;Always%20learning%20new%20things&center=true&width=500&height=100"></a>
 </p>
 <br>
 <br>
 
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
+<img align="right" alt="GIF" height="200px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
 
 ## :sassy_man:  About me
 - :academy: I am a `Junior` Software Engineering
